@@ -2,5 +2,9 @@
   "dependencies": {
     "opencage-api-client": "^1.0.1",
     "uuid": "^9.0.0"
-  }
+  },
+  "scripts": {
+  "build": "parcel build index.html"
+}
+
 }
