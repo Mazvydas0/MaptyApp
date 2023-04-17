@@ -8,6 +8,13 @@ Mapty is a web application that allows users to track their running and cycling 
 - Fetches location and weather data for the time and place of the workout
 - Stores workout data in local storage for persistence across sessions
 - Responsive design for use on both desktop and mobile devices
+
+# Prerequisites
+To run this project locally, you will need:
+- A modern web browser
+- A text editor, like VSCode
+- A live server, such as Live Server for Visual Studio Code or any other live server that you prefer
+
 # Technologies Used
 - JavaScript (ES6+)
 - HTML5 & CSS3
@@ -25,9 +32,15 @@ git clone https://github.com/Mazvydas0/MaptyApp.git
 ```bash
 cd mapty
 ```
-3. Open the `index.html` file in your browser.
+3. Open the project in your preferred text editor.
 
-4. You're ready to use Mapty!
+4. Run the project using a live server:
+- If you use Live Server for Visual Studio Code, open the index.html file and click "Go Live" in the status bar at the bottom of the editor window.
+- Alternatively, follow the instructions provided by your chosen live server to start it.
+
+5. Open your web browser and navigate to the live server's URL (typically http://localhost:5500 or the URL provided by your live server).
+
+6. Start logging workouts and exploring the application.
 
 # Usage
 - Allow the app to access your current location.
@@ -40,4 +53,4 @@ cd mapty
 - To see all workouts in the map, press the "Show all workouts" button at the middle bottom of the page.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Mapty is released under the MIT License.
