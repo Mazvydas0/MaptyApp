@@ -32,15 +32,21 @@ git clone https://github.com/Mazvydas0/MaptyApp.git
 ```bash
 cd mapty
 ```
-3. Open the project in your preferred text editor.
 
-4. Run the project using a live server:
+3. Install needed dependencies:
+```bash
+npm install
+```
+
+4. Open the project in your preferred text editor.
+
+5. Run the project using a live server:
 - If you use Live Server for Visual Studio Code, open the index.html file and click "Go Live" in the status bar at the bottom of the editor window.
 - Alternatively, follow the instructions provided by your chosen live server to start it.
 
-5. Open your web browser and navigate to the live server's URL (typically http://localhost:5500 or the URL provided by your live server).
+6. Open your web browser and navigate to the live server's URL (typically http://localhost:5500 or the URL provided by your live server).
 
-6. Start logging workouts and exploring the application.
+7. Start logging workouts and exploring the application.
 
 # Usage
 - Allow the app to access your current location.
