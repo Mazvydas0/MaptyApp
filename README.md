@@ -59,4 +59,5 @@ npm install
 - To see all workouts in the map, press the "Show all workouts" button at the middle bottom of the page.
 
 # License
+Design and concept by Jonas Schmedtmann. Developed by GitHub user Mazvydas0.
 Mapty is released under the MIT License.
