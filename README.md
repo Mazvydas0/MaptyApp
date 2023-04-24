@@ -23,8 +23,7 @@ To run this project locally, you will need:
 - WeatherAPI for fetching historical weather data
 # Getting Started
 1. Clone the repository:
-bash
-Copy code
+
 ```bash
 git clone https://github.com/Mazvydas0/MaptyApp.git
 ```
